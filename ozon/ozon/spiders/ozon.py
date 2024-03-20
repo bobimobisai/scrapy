@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 import json
 import scrapy
-
+import os
 
 base_url = "https://www.ozon.ru/category/telefony-i-smart-chasy-15501/?sorting=rating"
 base_url2 = (
@@ -36,27 +36,29 @@ time.sleep(25)
 
 class MySpider(scrapy.Spider):
     name = "ozon"
-    start_urls = [base_url, base_url2]
 
     def start_requests(self):
-        pass
+
+        current_dir = os.path.dirname(os.path.realpath(__file__))
+        file_path = os.path.join(current_dir, "test.html")
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            html_content = f.read()
+
+        yield scrapy.Request(
+            url="file:///" + file_path, callback=self.parse, dont_filter=True
+        )
 
     def parse(self, response):
         product_links = response.xpath(
             '//*[@id="layoutPage"]/div[1]/div[2]/div[2]/div[2]//a[starts-with(@href, "/product/")]/@href'
         ).extract()
 
-        for link in product_links:
-            full_link = "https://www.ozon.ru" + link
-            yield scrapy.Request(
-                url=full_link,
-                callback=self.parse_product,
-            )
+        if product_links:
+            current_dir = os.path.dirname(os.path.realpath(__file__))
+            filename = os.path.join(current_dir, "links.txt")
+            with open(filename, "w") as f:
+                for link in product_links:
+                    f.write(link + "\n")
 
-    def parse_product(self, response):
-
-        result = response.xpath(
-            '//*[@id="section-characteristics"]/div[2]/div[8]/div[2]/dl[4]/dd'
-        ).extract_first()
-
-        yield {"result": result}
+            self.log(f"Saved links to {filename}")
