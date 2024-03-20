@@ -1,0 +1,72 @@
+[
+    {
+        "domain": ".ozon.ru",
+        "name": "__cf_bm",
+        "value": "yvrqkVqr6zMVawTAZ5z8Q9QYsN8dOPSsqNa0_wYekok-1710889858-1.0.1.1-Lybh06egygyCcp0_SaghIBm16oMvENxB1POLwY5VKOXqOPtJXGHm0Vdxy3fG.XDTgZqiaTR2bj8vGdD9fRVfQw"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-ab-group",
+        "value": "71"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-access-token",
+        "value": "4.0.IgasYuMbQDmQlFmuxm0DSA.71.AbUGBcc88EU5fy8VGkDhPVk7uZn2VePn5O-0uY-4mHsiP3ATsRw-hPDkvpK2OMChbA..20240320001411.lN8H2m3eHbW8JpkrgY7N1INHNd0J4JQjjPSd3IokRNU"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-ETC",
+        "value": "ae04887524995c12b0585154d1adde5c"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-ext_xcid",
+        "value": "f6be5905849d9ece21f898047e500c51"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-refresh-token",
+        "value": "4.0.IgasYuMbQDmQlFmuxm0DSA.71.AbUGBcc88EU5fy8VGkDhPVk7uZn2VePn5O-0uY-4mHsiP3ATsRw-hPDkvpK2OMChbA..20240320001411.oUHt066ymVk9QTPV3Z4ZiqNABzdiS8WjOt59NSlexTE"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "__Secure-user-id",
+        "value": "0"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "abt_data",
+        "value": "1f82d3cfc986d999480c6e46558fbb61:8c86bad0ab5639a788005f748fd2d54803bd19555c7e27eef63d3253ec9285df1e61c5fa3fde4d1feb24cd576965bb17acd46567515dd42f10c232f5a89f566b8e31a66bcbc735beddd5956b0c7d843888754b90d289e043e6fb887c943d2dc722cf7a24a02a0521fb73495fdaa692fb45dafc9968e5326ab6f32ea458b73b318ad5bf0b4c84dac2ef6e8b7819f0b9c5f8ec1c0617d9ab68b714784621aee568f2fe1e0c247a42abbf03d21d7f797068cb91fccb840bdba4dab3ec67070044a045b3baf2c638054b783c8c979eac60ac54604dc53f76788d4f812b4d2a9871993f153545dcfc0429e2bd8b1bd2e1414de1cc9187375fd28fb7623ca47052b12ea0a92da9cf396f2568ba0711cb12cab4a805956212f3ec4ddbc1bc31e0ab1aee"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "ADDRESSBOOKBAR_WEB_CLARIFICATION",
+        "value": "1710886452"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "cf_clearance",
+        "value": "wTGY5Yzi7OS_8l.L1vazAxaD7fE1UB5C5A6DQhwbtxg-1710886452-1.0.1.1-ApRLkheC9Zb93_TeLDfUeWZ7uzPOnJ733tdhVQ9hAp3umzDq0NhbLjHE7dxQs6uaRqQAPcUPyq87ytOa5vbCcQ"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "guest",
+        "value": "true"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "rfuid",
+        "value": "NjkyNDcyNDUyLDEyNC4wNDM0NzUyNzUxNjA3NCwxMDI4MjM3MjIzLC0xLDEyNTIxMjY0MDIsVzNzaWJtRnRaU0k2SWxCRVJpQldhV1YzWlhJaUxDSmtaWE5qY21sd2RHbHZiaUk2SWxCdmNuUmhZbXhsSUVSdlkzVnRaVzUwSUVadmNtMWhkQ0lzSW0xcGJXVlVlWEJsY3lJNlczc2lkSGx3WlNJNkltRndjR3hwWTJGMGFXOXVMM0JrWmlJc0luTjFabVpwZUdWeklqb2ljR1JtSW4wc2V5SjBlWEJsSWpvaWRHVjRkQzl3WkdZaUxDSnpkV1ptYVhobGN5STZJbkJrWmlKOVhYMHNleUp1WVcxbElqb2lRMmh5YjIxbElGQkVSaUJXYVdWM1pYSWlMQ0prWlhOamNtbHdkR2x2YmlJNklsQnZjblJoWW14bElFUnZZM1Z0Wlc1MElFWnZjbTFoZENJc0ltMXBiV1ZVZVhCbGN5STZXM3NpZEhsd1pTSTZJbUZ3Y0d4cFkyRjBhVzl1TDNCa1ppSXNJbk4xWm1acGVHVnpJam9pY0dSbUluMHNleUowZVhCbElqb2lkR1Y0ZEM5d1pHWWlMQ0p6ZFdabWFYaGxjeUk2SW5Ca1ppSjlYWDBzZXlKdVlXMWxJam9pUTJoeWIyMXBkVzBnVUVSR0lGWnBaWGRsY2lJc0ltUmxjMk55YVhCMGFXOXVJam9pVUc5eWRHRmliR1VnUkc5amRXMWxiblFnUm05eWJXRjBJaXdpYldsdFpWUjVjR1Z6SWpwYmV5SjBlWEJsSWpvaVlYQndiR2xqWVhScGIyNHZjR1JtSWl3aWMzVm1abWw0WlhNaU9pSndaR1lpZlN4N0luUjVjR1VpT2lKMFpYaDBMM0JrWmlJc0luTjFabVpwZUdWeklqb2ljR1JtSW4xZGZTeDdJbTVoYldVaU9pSk5hV055YjNOdlpuUWdSV1JuWlNCUVJFWWdWbWxsZDJWeUlpd2laR1Z6WTNKcGNIUnBiMjRpT2lKUWIzSjBZV0pzWlNCRWIyTjFiV1Z1ZENCR2IzSnRZWFFpTENKdGFXMWxWSGx3WlhNaU9sdDdJblI1Y0dVaU9pSmhjSEJzYVdOaGRHbHZiaTl3WkdZaUxDSnpkV1ptYVhobGN5STZJbkJrWmlKOUxIc2lkSGx3WlNJNkluUmxlSFF2Y0dSbUlpd2ljM1ZtWm1sNFpYTWlPaUp3WkdZaWZWMTlMSHNpYm1GdFpTSTZJbGRsWWt0cGRDQmlkV2xzZEMxcGJpQlFSRVlpTENKa1pYTmpjbWx3ZEdsdmJpSTZJbEJ2Y25SaFlteGxJRVJ2WTNWdFpXNTBJRVp2Y20xaGRDSXNJbTFwYldWVWVYQmxjeUk2VzNzaWRIbHdaU0k2SW1Gd2NHeHBZMkYwYVc5dUwzQmtaaUlzSW5OMVptWnBlR1Z6SWpvaWNHUm1JbjBzZXlKMGVYQmxJam9pZEdWNGRDOXdaR1lpTENKemRXWm1hWGhsY3lJNkluQmtaaUo5WFgxZCxXeUp5ZFMxU1ZTSmQsMCwxLDAsMjQsMjM3NDE1OTMwLDgsMjI3MTI2NTIwLDAsMSwwLC00OTEyNzU1MjMsUjI5dloyeGxJRWx1WXk0Z1RtVjBjMk5oY0dVZ1IyVmphMjhnVjJsdU16SWdOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRcElFRndjR3hsVjJWaVMybDBMelV6Tnk0ek5pQW9TMGhVVFV3c0lHeHBhMlVnUjJWamEyOHBJRU5vY205dFpTOHhNakl1TUM0d0xqQWdVMkZtWVhKcEx6VXpOeTR6TmlBeU1EQXpNREV3TnlCTmIzcHBiR3hoLGV5SmphSEp2YldVaU9uc2lZWEJ3SWpwN0ltbHpTVzV6ZEdGc2JHVmtJanBtWVd4elpTd2lTVzV6ZEdGc2JGTjBZWFJsSWpwN0lrUkpVMEZDVEVWRUlqb2laR2x6WVdKc1pXUWlMQ0pKVGxOVVFVeE1SVVFpT2lKcGJuTjBZV3hzWldRaUxDSk9UMVJmU1U1VFZFRk1URVZFSWpvaWJtOTBYMmx1YzNSaGJHeGxaQ0o5TENKU2RXNXVhVzVuVTNSaGRHVWlPbnNpUTBGT1RrOVVYMUpWVGlJNkltTmhibTV2ZEY5eWRXNGlMQ0pTUlVGRVdWOVVUMTlTVlU0aU9pSnlaV0ZrZVY5MGIxOXlkVzRpTENKU1ZVNU9TVTVISWpvaWNuVnVibWx1WnlKOWZYMTksNjUsLTEyODU1NTEzLDEsMSwtMSwxNjk5OTU0ODg3LDE2OTk5NTQ4ODcsMzM2MDA3OTMzLDEy"
+    },
+    {
+        "domain": ".ozon.ru",
+        "name": "xcid",
+        "value": "f6be5905849d9ece21f898047e500c51"
+    },
+    {
+        "domain": "www.ozon.ru",
+        "name": "is_cookies_accepted",
+        "value": "1"
+    }
+    ]
